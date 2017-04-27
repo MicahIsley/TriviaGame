@@ -1,0 +1,53 @@
+html {
+	height: 100%;
+}
+body {
+	background: linear-gradient(purple, red, black);
+	height: 100%;
+}
+
+img {
+	height: 350px;
+	width: 300px;
+	margin: 10px;
+}
+
+button {
+	margin: 5px;
+	padding: 5px;
+	height: 45px;
+	border-width: 0px;
+}
+
+button:hover {
+	background: blue;
+	border-width: 0px;
+}
+
+#timer {
+	font-size: 48px;
+	text-align: center;
+	margin-left: 40%;
+	border-style: double;
+	border-color: black;
+	border-width: 3px;
+	display: none;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Joti One', cursive;
+	font-size: 60px;
+}
+
+h2 {
+	color: white;
+}
+
+#displayArea {
+	text-align: center;
+}
+
+#image {
+	margin-left: 30%;
+}
